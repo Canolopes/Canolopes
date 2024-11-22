@@ -8,9 +8,9 @@ My recent experience includes the 8-month Data Science Program (which I complete
 My projects were a demonstration of each skill I learned during the program. You can learn about select projects in my repositories which include supervised learning, time series analysis, and gradient boosting methods.
 
 Some facts about me:
-- I am a huge fan of basketball and baseball.
-- I've always been a big numbers nerd, especially in sports statistics, crypto, and stocks particularly.
-- I am almost always good at every video game I play.
-- For 2024/2025, I am hoping to land my ideal job in data!
+- Huge fan of basketball and baseball.
+- A numbers nerd, especially in sports stats, crypto, and stocks.
+- Almost always top-tier at every video game I play.
+- Looking to land my dream data science job in 2024/2025!
 
 Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1mrr9Ue6BRiuQHGHIIpLBNfP8aEmW8rxM/view?usp=sharing' target=_blank><u>here</u>.</a></p>
