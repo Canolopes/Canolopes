@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Enrique Cano 👋
+[![LinkedIn Badge](https://img.shields.io/badge/-enrique--cano-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zarina-perez-9b756b280/)](https://www.linkedin.com/in/enrique-cano-jr/)
 
-<!--
-**Canolopes/Canolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Enrique, a data scientist with hands-on experience in over 15 applied projects. My expertise includes business analytics, data visualization, machine learning, and Python. I'm passionate about using data to make high-impact decisions. I'm eager to deploy my skills and apply them to bring solutions and drive growth to businesses.
 
-Here are some ideas to get you started:
+My recent experience includes the 8-month Data Science Program (which I completed in 5 months) taken in 2024. The curriculum spanned over numerous things, including Python (NumPy and Pandas), SQL, machine learning (scikit-learn, NLTK, Keras), time series analysis (ARIMA), statistical data analysis, computer vision, and more. I completed a number of applied projects which were reviewed by expert coders and continuously tuned until we had met standards. This experience enhanced my ability to analyze, visualize, and present data in a clear, digestible format while improving my coding and model-building skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects were a demonstration of each skill I learned during the program. You can learn about select projects in my repositories which include supervised learning, time series analysis, and gradient boosting methods.
+
+Some facts about me:
+- I am a huge fan of basketball and baseball.
+- I've always been a big numbers nerd, especially in sports statistics, crypto, and stocks particularly.
+- I am almost always good at every video game I play.
+- For 2024/2025, I am hoping to land my ideal job in data!
+
+Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1mrr9Ue6BRiuQHGHIIpLBNfP8aEmW8rxM/view?usp=sharing' target=_blank><u>here</u>.</a></p>
