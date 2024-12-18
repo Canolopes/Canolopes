@@ -13,6 +13,6 @@ Some facts about me:
 - Almost always top-tier at every video game I play.
 - Looking to land my dream data science job in 2024/2025!
 
-Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1za5sH8zWqGY3FzLiprAppQEaGFhklG1L/view?usp=sharing' target=_blank><u>here</u>.</a></p>
+Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1h4S9DhhjSGsutOxdgcHnLeXLyb9sOJIS/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
 My GitHub is being dynamically updated to include independent projects I am performing to further my knowledge and skill application.
